@@ -1,4 +1,4 @@
- /node_modules
- /mongo-entrypoint
- /data
+ node_modules/
+ mongo-entrypoint/
+ data/
  package-lock.json
